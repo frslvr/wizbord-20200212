@@ -5,8 +5,14 @@
       "link": "/"
     },
     {
-      "label": "About",
-      "link": "/about"
+      "label": "Company",
+      "link": "",
+      "subMenu": [
+        {
+          "label": "About",
+          "link": "/about"
+        }
+      ]
     },
     {
       "label": "Blog",
@@ -16,5 +22,8 @@
       "label": "Contact",
       "link": "/contact"
     }
-  ]
+  ],
+  "__gatsby_resolved": {
+    "fileRelativePath": "/content/settings/menu.json"
+  }
 }

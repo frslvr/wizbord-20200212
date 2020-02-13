@@ -6,7 +6,7 @@
     },
     {
       "label": "Company",
-      "link": "/about",
+      "link": "/",
       "subMenu": [
         {
           "label": "About",
